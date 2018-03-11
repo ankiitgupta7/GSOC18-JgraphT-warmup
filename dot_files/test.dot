@@ -1,0 +1,13 @@
+digraph "" {
+one -> two
+two -> three
+three -> four
+four -> five
+one -> three
+four -> six
+one -> ten
+one -> seven
+two -> eight
+four -> nine
+
+}
