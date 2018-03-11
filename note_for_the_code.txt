@@ -1,0 +1,9 @@
+Dear Viewer,
+
+   The code is uses various JgraphT libraries in order to find Lowest Common Ancestor(LCA) of any two leaves. One of the pivotal classes used in this code is "Class NaiveLcaFinder" and it uses its method findLca() in order to locate the required node.
+
+   As this class is applicable for only DAGs(Directed Acyclic Graphs), and since given dot file(list1.dot) has a cycle involved in it, the code terminates with showing the presence of cycle in the graph.
+
+   So, for checking the code properties on DAGs, I have created a test DAG(test.dot) file, on which the code works perfectly.
+
+Thanks for reading!
