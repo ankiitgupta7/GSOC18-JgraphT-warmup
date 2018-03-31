@@ -1,0 +1,23 @@
+digraph "" {
+one -> two
+two -> three
+three -> four
+four -> five
+one -> three
+four -> six
+one -> ten
+one -> seven
+two -> eight
+four -> nine
+four -> eight
+seven -> four
+eight -> one
+six -> eight
+seven -> nine
+five -> seven
+nine -> three
+four -> one
+ten -> five
+
+
+}

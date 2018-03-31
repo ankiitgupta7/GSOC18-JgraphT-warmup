@@ -7,3 +7,9 @@ Dear Viewer,
    So, for checking the code properties on DAGs, I have created a test DAG(test.dot) file, on which the code works perfectly.
 
 Thanks for reading!
+
+Edit: Commands for executing .dot files on terminal
+
+dot -Tps input.dot > output.eps //for image in eps
+
+dot -Tpng input.dot > output.png  //for image in png
