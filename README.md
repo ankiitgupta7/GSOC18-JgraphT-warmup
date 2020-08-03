@@ -1,4 +1,4 @@
-# GSOC18-JgraphT-warmup
+# GSoC18-JGraphT
 This contains the code and related files regarding the project for GSOC18 warmup of the Java library Org JgraphT...
 
 *For compiling, make sure that you add the jars available in directory jar_files.
